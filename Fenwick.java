@@ -1,4 +1,4 @@
-public class Fenwick {
+public class Fenwick { // test fenwick
     long[] bit;
  
     public Fenwick(int arr[]) {
